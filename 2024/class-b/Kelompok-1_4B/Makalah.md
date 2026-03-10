@@ -22,6 +22,10 @@
  
 **A. Latar Belakang**
 
+Hubungan antara Sains dan Agama sudah seringkali menjadi perdebatan atau pembicaraan yang sangat penting di kehidupan manusia. Sejak dahulu, Agama telah memberikan kita pedoman tentang nilai, moral, dan makna kehidupan. Sementara itu, Sains lahir dan berkembang sebagai suatu langkah manusia untuk memahami dunia melalui pengamatan, penelitian, dan juga pembuktian. Karenanya, Sains dan Agama seringkali dianggap sebagai sesuatu yang saling bertentangan. Dalam sejarahnya, kedua hal ini seringkali memunculkan perdebatan mengenai mana hal yang lebih benar.
+
+Namun, di dalam buku Homo Deus karya Yuval Noah Harari, ia menjelaskan bahwa Sains dan Agama itu memiliki peran atau fokus yang berbeda. Sains selalu menjelaskan bagaimana suatu hal itu terjadi melalui sebuah fakta. Sedangkan Agama, ini selalu berkaitan dengan nilai-nilai kepercayaan dan juga moral. Karena itu, dua hal ini tidak bisa juga dipandang sebagai suatu konflik. Dengan memahami sejarah konflik, perbedaan metode, dan juga keterkaitannya, kita dapat mengetahui bagaimana kedua hal ini sama-sama berperan penting dalam membantu manusia memahami dunia dan kehidupannya.
+
 **B. Rumusan Masalah**
 
 Berdasarkan latar belakang di atas, maka rumusan masalah dalam makalah ini adalah:
@@ -44,13 +48,13 @@ Adapun tujuan penulisan makalah ini adalah:
 
   Dalam bukunya Homo Deus, Yuval Noah Harari menggambarkan sebuah hubungan antara Sains dan Agama seperti sepasang suami istri yang telah menikah selama 500 tahun lamanya tetapi masih belum benar-benar saling memahami. Sepasang suami istri ini sering berdebat dan terlihat berbeda, tetapi masih tetap hidup berdampingan.
   
-  Harari menjelaskan bahwa Agama berfungsi memberi kebenaran terhadap aturan, norma, dan nilai dalam bermasyarakat. Agama mengajarkan bahwa hukum moral yang mengatuh kehidupan manusia berasal dari kekuatan yang lebih tinggi dari manusia, sehingga manusia haru mematuhinya dan tidak berhak mengubahnya sesuka hati.
+  Ia menjelaskan bahwa Agama berfungsi memberi kebenaran terhadap suatu aturan, norma, dan nilai dalam bermasyarakat. Agama mengajarkan bahwa hukum moral yang mengatur kehidupan manusia berasal dari kekuatan yang lebih tinggi dari manusia, sehingga manusia harus mematuhinya dan tidak berhak mengubahnya sesuka hati.
   
   Ada juga satu pandangan yang mengatakan bahwa Sains dan Agama adalah dua hal yang saling bertentangan, bahkan dianggap sebagai musuh bebuyutan. Dalam pandangan ini, sejarah modern dipercaya sebagai pertarungan antara pengetahuan ilmiah dengan kepercayaan keagamaan.
   
-  Namun menurut Harari, dalam praktiknya Sains juga membutuhkan Agama untuk membangun kehidupan sosial manusia. Sains dapat menjelaskan fakta tentanf dunia, misalnya bahwa manusia membutuhkan oksigen untuk bertahan hidup. Tetapi Sains tidak bisa menjawab pertanyaan moral, seperti apakah suatu tidakan itu dapat dikatakan benar atau salah. Untuk menjawab pertanyaan tentang nilai dan moral tersebut, manusia membutuhkan panduan dari Agama.
+  Namun menurut Harari, dalam praktiknya Sains juga membutuhkan Agama untuk membangun kehidupan sosial manusia. Sains dapat menjelaskan fakta tentang dunia, misalnya bahwa manusia membutuhkan oksigen untuk bertahan hidup. Tetapi Sains tidak bisa menjawab pertanyaan moral, seperti apakah suatu tidakan itu dapat dikatakan benar atau salah. Untuk menjawab pertanyaan tentang nilai dan moral tersebut, manusia membutuhkan panduan dari Agama.
   
-  Selain itu, Harari juga menjelaskan bahwa Sains dan Agama memiliki fokus yang berbeda. Sains memperlajari fakta-fakta. Sementara itu, Agama lebih banyak berbicara mengenai nilai, makna hidup, dan pedoman moral bagi manusia. Namun terkadang, agama juga membuat peryataan tentang fakta dunia, dan pada titik inilah konflik antara Sains dan Agama bisa terjadi.
+  Selain itu, Harari juga menjelaskan bahwa Sains dan Agama memiliki fokus yang berbeda. Sains memperlajari fakta-fakta. Sementara itu, Agama lebih banyak berbicara mengenai nilai, makna hidup, dan pedoman moral bagi manusia. Namun terkadang, agama juga membuat pernyataan tentang fakta dunia, dan pada titik inilah konflik antara Sains dan Agama bisa terjadi.
 
 **B. Sejarah Konflik antara Sains dan Agama**
 
