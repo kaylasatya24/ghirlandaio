@@ -1,11 +1,11 @@
 # Hubungan dan Relasi Agama dan Sains 
 
+## Pendahuluan
 Berangkat dari satu pertanyaan "Apakah agama dan sains saling bertolak belakang atau berkesinambungan dan memiliki relasi yang tidak saling menjatuhkan?", topik ini masih sering dibahas dan menjadi perdebatan saat ini 
 
-## Pendahuluan
+## Pembahasan
 Dalam buku Homo Deus, Harari Y.N. menjelaskan bahwa metodologi yang dipakai oleh sains dan agama berbeda, sains sendiri menggunakan metode empiris, yakni melalui observasi, eksperimen, dan pembuktian berbasis data untuk memahami kebenaran. sains sendiri bersifat sementara dan dapat berubah jika ditemukan bukti baru atau teori baru yang lebih tepat. sebaliknya, agama menggunakan metode normatif dan pendekatan spiritual yang bersumber dari wahyu, kepercayaan, serta ajaran yang telah diyakini kebenarannya. Menurut John Hedley dalam bukunya yang berjudul Science and Religion, dia menjelaskan perbedaan metode inilah penyebab terjadinya perdebatan dan munculnya anggapan bahwa sains dan agama bertentangan padahal keduanya ada di ranah yang berbeda.
 
-## Pembahasan
 Dari hal tersebut maka tak mudah untuk mengatakan bertentangan atau bertolak belakang sepenuh nya tapi juga tak bisa dikatakan selaras atau memiliki relasi, keduanya memang memiliki cara pandang berbeda dalam memahami kebenaran, namun bukan berarti saling merusak atau menghilangkan satu sama lain. Dalam Homo Deus, dijelaskan bahwa perkembangan sains hanya mengubah cara pandang manusia bukan menggantikan agama. sementara
 dalam buku Science and Religion menegaskan bahwa hubungan keduanya bersifat dinamis dan dapat berbeda sesuai konteks.
 
