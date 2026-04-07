@@ -12,6 +12,15 @@
 # KATA PENGANTAR
 # BAB I : PENDAHULUAN
 ## 1.1 Latar Belakang
+Puji syukur kami panjatkan kepada Allah SWT yang telah melimpahkan rahmat dan petunjuk-Nya, sehingga kami dapat menyelesaikan tugas makalah Perpustakaan dan Arsip digital.
+
+Dalam penyusunan makalah ini, kelompok kami menyadari bahwa makalah ini masih terdapat kekurangan dan jauh dari kesempurnaan. Oleh karena itu, kami mengharapkan pembaca dapat memberikan masukan berupa saran dan kritik yang bersifat membangun guna memperbaiki dan menyempurnakan makalah ini.
+
+Akhir kata kami ucapkan terima kasih kepada semua pihak yang turut berperan dalam penyusunan makalah ini. Penulis berharap agar makalah ini dapat menambah pengetahuan dan pengalaman bagi pembaca, sehingga penulis dapat memperbaiki baik dalam bentuk maupun isi makalah ini agar lebih baik di masa yang akan datang.
+
+Jakarta, 8 April 2026
+
+Kelompok 3
 ## 1.2 Rumusan Masalah
 1. Bagaimana pola hubungan antara negara dan teknologi pada rentang tahun 1960-sekarang.
 2. Bagaimana pola hubungan antara swasta dan teknologi pada rentang tahun 1960-sekarang.
