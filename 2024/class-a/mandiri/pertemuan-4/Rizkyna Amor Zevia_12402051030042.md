@@ -1,4 +1,5 @@
 Nama: Rizkyna Amor Zevia
+
 NIM: 12402051030042
 
   Bagaimana Pola Hubungan Antara Open Source dan Closed Source
